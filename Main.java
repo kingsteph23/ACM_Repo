@@ -1,11 +1,8 @@
 public class Main {
-
     public static void main(String[] args) {
+        int num1 = 10;
+        int num2 = 20;
+        int sum = num1 + num2;
         System.out.println("hey");
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Hello index" + i);
-            System.out.println("wat happens if i dont");
-
-        }
     }
 }
